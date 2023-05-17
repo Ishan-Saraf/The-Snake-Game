@@ -1,5 +1,5 @@
 # The-Snake-Game
-This Snake game made using python.
+This Snake game is made using python.
 
 You'll need the following libraries to run this game:
 1. time
